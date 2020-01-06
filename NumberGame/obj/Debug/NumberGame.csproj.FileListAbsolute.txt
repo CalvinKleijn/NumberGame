@@ -1,0 +1,6 @@
+D:\Calvin\Desktop\C# .NET\source\repos\NumberGame\NumberGame\bin\Debug\NumberGame.exe.config
+D:\Calvin\Desktop\C# .NET\source\repos\NumberGame\NumberGame\bin\Debug\NumberGame.exe
+D:\Calvin\Desktop\C# .NET\source\repos\NumberGame\NumberGame\bin\Debug\NumberGame.pdb
+D:\Calvin\Desktop\C# .NET\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.csprojAssemblyReference.cache
+D:\Calvin\Desktop\C# .NET\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.exe
+D:\Calvin\Desktop\C# .NET\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.pdb
